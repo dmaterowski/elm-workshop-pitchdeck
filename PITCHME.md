@@ -1,6 +1,10 @@
+
 ---?image=assets/elm-logo.png&size=auto 50%
 @title[Made with Elm]
-# Made with Elm, made for Elm
+# Made with Elm
+#
+#
+# Made for Elm
 
 ---
 @title[Elm-UI]
@@ -36,16 +40,20 @@
 ---
 @title[Zalando's 404 Elm Street game]
 # [Zalando's 404 Elm Street game](https://github.com/zalando/elm-street-404)
+
 Hack week project where you play as a Zalando courier
+
 [Read the blog post](https://jobs.zalando.com/tech/blog/using-elm-to-create-a-fun-game-in-just-five-days/)
+
 +++
 ![Screenshot](assets/zalando404.png)
-
 
 ---
 @title[Pivotal tracker]
 # [Pivotal Tracker](www.pivotaltracker.com)
+
 Project management tool
+
 Read their [blog post about using Elm](https://www.pivotaltracker.com/blog/Elm-pivotal-tracker/)
 ---
 @title[NoRedInk]
