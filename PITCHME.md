@@ -2,8 +2,8 @@
 ---?image=assets/elm-logo.png&size=auto 50%
 @title[Made with Elm]
 # Made with Elm
-#
-#
+#  
+#  
 # Made for Elm
 
 ---
